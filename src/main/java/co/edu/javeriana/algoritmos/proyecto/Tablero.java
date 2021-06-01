@@ -9,6 +9,7 @@ package co.edu.javeriana.algoritmos.proyecto;
  * NO MODIFIQUE NADA EN ESTE ARCHIVO, NI LO COPIE, NI LO MUEVA A OTRO PAQUETE.
  *
  */
+ //si se cambio algo? 
 public interface Tablero 
 {
     /**
